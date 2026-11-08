@@ -1,0 +1,1522 @@
+[
+    {
+        "timestamp": "2026-05-28 05:59:50",
+        "ip": "35.165.69.131",
+        "country": "US",
+        "is_bot": "Yes",
+        "is_proxy": "Yes",
+        "redirect_url": "Bot detected"
+    },
+    {
+        "timestamp": "2026-05-28 05:59:50",
+        "ip": "35.165.69.131",
+        "country": "US",
+        "is_bot": "Yes",
+        "is_proxy": "Yes",
+        "redirect_url": "Bot detected"
+    },
+    {
+        "timestamp": "2026-05-28 05:59:52",
+        "ip": "84.37.206.93",
+        "country": "US",
+        "is_bot": "No",
+        "is_proxy": "Yes",
+        "redirect_url": "Country blocked"
+    },
+    {
+        "timestamp": "2026-05-28 05:59:55",
+        "ip": "82.22.103.201",
+        "country": "US",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Country blocked"
+    },
+    {
+        "timestamp": "2026-05-28 06:00:49",
+        "ip": "92.51.55.116",
+        "country": "AE",
+        "is_bot": "No",
+        "is_proxy": "Yes",
+        "redirect_url": "Country blocked"
+    },
+    {
+        "timestamp": "2026-05-28 06:00:50",
+        "ip": "89.184.216.198",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "Yes",
+        "redirect_url": "Proxy detected"
+    },
+    {
+        "timestamp": "2026-05-28 06:00:51",
+        "ip": "181.215.100.58",
+        "country": "US",
+        "is_bot": "No",
+        "is_proxy": "Yes",
+        "redirect_url": "Country blocked"
+    },
+    {
+        "timestamp": "2026-05-28 06:00:52",
+        "ip": "67.227.16.82",
+        "country": "US",
+        "is_bot": "No",
+        "is_proxy": "Yes",
+        "redirect_url": "Country blocked"
+    },
+    {
+        "timestamp": "2026-05-28 06:19:53",
+        "ip": "202.7.205.134",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 06:29:08",
+        "ip": "49.255.205.123",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 06:30:22",
+        "ip": "2001:8004:12f0:a858:140d:ba07:2494:70e0",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 06:37:21",
+        "ip": "2001:8003:e42a:ae00:5963:c253:9f3:79a7",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 06:37:40",
+        "ip": "4.199.143.131",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "Yes",
+        "redirect_url": "Proxy detected"
+    },
+    {
+        "timestamp": "2026-05-28 06:38:38",
+        "ip": "68.218.165.96",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "Yes",
+        "redirect_url": "Proxy detected"
+    },
+    {
+        "timestamp": "2026-05-28 06:42:33",
+        "ip": "48.215.3.176",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "Yes",
+        "redirect_url": "Proxy detected"
+    },
+    {
+        "timestamp": "2026-05-28 06:49:27",
+        "ip": "2001:8003:917a:d600:47b:17c2:a2bb:5d29",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 06:56:02",
+        "ip": "2a09:bac2:42f:34b::54:5f",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "Yes",
+        "redirect_url": "Proxy detected"
+    },
+    {
+        "timestamp": "2026-05-28 06:56:57",
+        "ip": "2a09:bac3:42c:34b::54:5f",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "Yes",
+        "redirect_url": "Proxy detected"
+    },
+    {
+        "timestamp": "2026-05-28 06:59:35",
+        "ip": "14.203.197.227",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 06:59:37",
+        "ip": "103.227.66.196",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "Yes",
+        "redirect_url": "Proxy detected"
+    },
+    {
+        "timestamp": "2026-05-28 07:35:30",
+        "ip": "2a09:bac2:40e:34b::54:2d",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "Yes",
+        "redirect_url": "Proxy detected"
+    },
+    {
+        "timestamp": "2026-05-28 07:44:02",
+        "ip": "2a09:bac3:18d:134b::1ec:ae",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "Yes",
+        "redirect_url": "Proxy detected"
+    },
+    {
+        "timestamp": "2026-05-28 07:47:13",
+        "ip": "58.104.38.106",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 07:54:22",
+        "ip": "203.56.119.193",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 08:00:28",
+        "ip": "1.145.209.38",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 08:02:02",
+        "ip": "2001:8004:6f40:de4b:f493:4bd1:559d:22d7",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 08:02:22",
+        "ip": "110.20.28.66",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 08:05:19",
+        "ip": "2001:8003:3f49:700:f4a6:f702:ee4a:d217",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 08:39:55",
+        "ip": "2001:8003:1dcb:3800:98a7:67bf:42f9:6d7b",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 08:41:08",
+        "ip": "13.54.229.237",
+        "country": "AU",
+        "is_bot": "Yes",
+        "is_proxy": "Yes",
+        "redirect_url": "Bot detected"
+    },
+    {
+        "timestamp": "2026-05-28 09:47:39",
+        "ip": "1.123.73.18",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 09:47:45",
+        "ip": "2a09:bac2:401:34b::54:31",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "Yes",
+        "redirect_url": "Proxy detected"
+    },
+    {
+        "timestamp": "2026-05-28 09:49:11",
+        "ip": "2a09:bac3:3d9:24f0::3ae:5f",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "Yes",
+        "redirect_url": "Proxy detected"
+    },
+    {
+        "timestamp": "2026-05-28 10:57:25",
+        "ip": "2001:8003:3254:3501:9174:b7cc:990c:447e",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 11:47:17",
+        "ip": "1.141.178.245",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 12:44:19",
+        "ip": "14.1.89.186",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 13:37:40",
+        "ip": "121.200.31.44",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 13:51:39",
+        "ip": "2001:8003:1c25:6301:6474:c25f:cc11:2ad0",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 15:11:09",
+        "ip": "124.184.167.235",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 16:03:46",
+        "ip": "1.126.27.177",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 22:13:29",
+        "ip": "113.29.243.2",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 23:27:58",
+        "ip": "2001:8003:23b6:ef00:a998:c69b:20b5:1149",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 23:28:54",
+        "ip": "2607:f8b0:400c:c1f::fd",
+        "country": "US",
+        "is_bot": "No",
+        "is_proxy": "Yes",
+        "redirect_url": "Country blocked"
+    },
+    {
+        "timestamp": "2026-05-28 23:28:55",
+        "ip": "177.36.184.246",
+        "country": "BR",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Country blocked"
+    },
+    {
+        "timestamp": "2026-05-28 23:28:56",
+        "ip": "186.22.233.196",
+        "country": "AR",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Country blocked"
+    },
+    {
+        "timestamp": "2026-05-28 23:28:57",
+        "ip": "103.96.70.138",
+        "country": "BD",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Country blocked"
+    },
+    {
+        "timestamp": "2026-05-28 23:30:40",
+        "ip": "203.222.133.57",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 23:36:31",
+        "ip": "2001:8003:23b6:ef00:a998:c69b:20b5:1149",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 23:37:18",
+        "ip": "2001:8003:23b6:ef00:a998:c69b:20b5:1149",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-28 23:38:42",
+        "ip": "203.222.133.57",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-29 00:39:14",
+        "ip": "110.145.115.112",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-29 01:15:31",
+        "ip": "2001:8003:4400:b500:78c:753b:70ad:9197",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-29 01:20:18",
+        "ip": "2401:d005:c01:ec00:e406:7fc5:6f1e:c9ec",
+        "country": "AU",
+        "is_bot": "Yes",
+        "is_proxy": "No",
+        "redirect_url": "Bot detected"
+    },
+    {
+        "timestamp": "2026-05-29 01:27:39",
+        "ip": "2001:8001:7381:a100:ec19:99ed:6de8:fde3",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-29 02:18:20",
+        "ip": "2001:8003:2348:5601:b811:8665:35c2:33ab",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-29 02:33:42",
+        "ip": "180.181.251.229",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-29 03:09:29",
+        "ip": "2001:8003:8805:ff00:81cb:2473:4911:7529",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-29 03:13:10",
+        "ip": "2001:8003:8053:9b00:6d90:861c:e4d5:25ac",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-29 04:57:23",
+        "ip": "49.199.185.172",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-29 05:03:40",
+        "ip": "49.199.185.172",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-29 05:06:39",
+        "ip": "49.199.185.172",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-29 08:05:10",
+        "ip": "2001:4479:aa07:f300:25e8:49b5:bec:2a0e",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-29 08:20:24",
+        "ip": "2001:8001:7381:a100:91fb:1501:49e2:9fce",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-29 08:24:23",
+        "ip": "60.227.42.165",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-29 08:26:10",
+        "ip": "173.239.213.77",
+        "country": "US",
+        "is_bot": "No",
+        "is_proxy": "Yes",
+        "redirect_url": "Country blocked"
+    },
+    {
+        "timestamp": "2026-05-29 08:26:21",
+        "ip": "212.113.172.10",
+        "country": "PT",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Country blocked"
+    },
+    {
+        "timestamp": "2026-05-29 09:46:03",
+        "ip": "2001:8003:5450:5b00:1c1a:5628:954f:d3c5",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-29 12:38:54",
+        "ip": "2001:8003:3a1e:2600:7602:62c5:79f2:65",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-29 23:19:10",
+        "ip": "60.225.180.74",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-29 23:22:52",
+        "ip": "2001:8003:23b6:ef00:7551:599a:a4d:c34b",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-30 02:30:10",
+        "ip": "2001:8003:1dcb:3800:55fa:d603:626a:bb04",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-30 03:35:56",
+        "ip": "159.196.170.207",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-30 03:36:16",
+        "ip": "152.163.187.40",
+        "country": "US",
+        "is_bot": "No",
+        "is_proxy": "Yes",
+        "redirect_url": "Country blocked"
+    },
+    {
+        "timestamp": "2026-05-30 03:56:59",
+        "ip": "2001:8003:9080:8f01:e9b4:83da:db74:7668",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-31 00:38:12",
+        "ip": "2001:8001:6013:ee01:dabb:dd24:36f4:dfc2",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-31 12:01:13",
+        "ip": "60.226.178.116",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-31 13:21:35",
+        "ip": "121.200.6.6",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-05-31 22:45:41",
+        "ip": "121.208.85.29",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 02:31:15",
+        "ip": "2001:8003:d874:fa00:2400:e2e2:8e9a:a9fb",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 02:32:58",
+        "ip": "139.130.122.56",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 02:43:09",
+        "ip": "2001:8004:4e20:ffe:602a:e4ba:1b10:1e29",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 02:46:48",
+        "ip": "2001:8004:6bd1:fc95:118c:cee6:a7dd:2089",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 02:55:14",
+        "ip": "2001:8003:902d:ee01:e3ff:6fea:33c0:3258",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 03:54:12",
+        "ip": "2001:8003:740b:1100:353e:b026:4597:35ef",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 04:10:10",
+        "ip": "2001:8001:6019:5e00:c425:fc32:89e2:b459",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 04:13:47",
+        "ip": "49.184.186.188",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 04:24:32",
+        "ip": "194.223.19.233",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 04:26:55",
+        "ip": "2405:6e00:c3a:fe70:8164:c04a:ecc:ac3b",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 04:35:55",
+        "ip": "2001:8004:6b40:9e6b:fd30:749e:9633:d2be",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 04:46:55",
+        "ip": "2001:4479:820a:2d00:5ea:9c03:7f4e:416",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 04:50:45",
+        "ip": "2403:5813:d58d:0:898a:27b1:7564:9090",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 05:01:56",
+        "ip": "2001:8003:a884:8e00:d9ee:109e:f651:1ea0",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 05:01:57",
+        "ip": "2001:8004:52c0:d647:9414:6410:6f53:3cf3",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 05:11:20",
+        "ip": "2001:8004:6c40:8026:e9fe:dde8:ebf5:b413",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 05:15:27",
+        "ip": "2001:8004:4e20:ffe:1c21:4202:8194:d353",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 05:28:27",
+        "ip": "2001:8003:3a0d:7101:992c:649c:4ae8:efbc",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 05:36:39",
+        "ip": "2001:8003:959d:7601:8f6:ec29:2678:3693",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 05:55:36",
+        "ip": "122.199.55.252",
+        "country": "AU",
+        "is_bot": "Yes",
+        "is_proxy": "No",
+        "redirect_url": "Bot detected"
+    },
+    {
+        "timestamp": "2026-06-02 06:01:01",
+        "ip": "2001:8001:7106:eb00:7db1:7b43:4a6b:4d8b",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 06:07:07",
+        "ip": "49.178.131.175",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 06:12:34",
+        "ip": "2001:8004:50c1:54bd:9def:96ba:acb2:f35f",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 06:33:12",
+        "ip": "2001:8004:1f01:15df:c4c9:3e58:bf26:5f8c",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 06:45:45",
+        "ip": "2001:8004:13f0:8ae:5845:b418:c411:59af",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 06:56:37",
+        "ip": "2001:8003:d4cd:a300:64de:698f:430b:352f",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 07:08:34",
+        "ip": "2001:8003:4f56:5201:c5e9:c747:84db:672f",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 07:34:02",
+        "ip": "2001:8003:34cb:900:2497:a72:e7e9:e3f7",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 07:49:49",
+        "ip": "2001:8003:dc02:7d01:949f:b987:acae:98e6",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 08:53:52",
+        "ip": "165.228.68.194",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 08:59:18",
+        "ip": "2001:8003:dd19:e100:bdd5:87b9:fe42:afc1",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 09:18:40",
+        "ip": "2001:8003:cc12:2201:a594:d71f:3f66:60ec",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 09:42:01",
+        "ip": "60.225.137.81",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 10:10:10",
+        "ip": "1.144.106.170",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 11:20:03",
+        "ip": "2001:8003:34cb:900:2497:a72:e7e9:e3f7",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 11:46:19",
+        "ip": "2001:8003:dd19:e100:bdd5:87b9:fe42:afc1",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 11:46:54",
+        "ip": "2001:8003:a884:8e00:41b8:244e:1196:50aa",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 11:52:04",
+        "ip": "2001:8003:a884:8e00:41b8:244e:1196:50aa",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 12:18:16",
+        "ip": "2001:8003:240d:1f00:142b:feea:efc4:8670",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 12:35:57",
+        "ip": "2001:8003:a884:8e00:41b8:244e:1196:50aa",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-02 13:00:40",
+        "ip": "2401:d002:6004:4700:d57:ccb3:f5df:87e2",
+        "country": "AU",
+        "is_bot": "Yes",
+        "is_proxy": "No",
+        "redirect_url": "Bot detected"
+    },
+    {
+        "timestamp": "2026-06-02 15:29:35",
+        "ip": "2001:8004:cf0:a690:822f:3a0:e4b6:d202",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 00:10:22",
+        "ip": "121.200.4.61",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 00:27:20",
+        "ip": "2001:8001:30b5:6300:c877:8e39:7f70:13ef",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 02:42:15",
+        "ip": "2001:8004:6b41:2545:10b4:39c3:e9ca:c3d",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 06:30:21",
+        "ip": "160.177.58.166",
+        "country": "MA",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 06:32:55",
+        "ip": "16.170.140.127",
+        "country": "SE",
+        "is_bot": "No",
+        "is_proxy": "Yes",
+        "redirect_url": "Country blocked"
+    },
+    {
+        "timestamp": "2026-06-03 06:33:38",
+        "ip": "16.170.140.127",
+        "country": "SE",
+        "is_bot": "No",
+        "is_proxy": "Yes",
+        "redirect_url": "Proxy detected"
+    },
+    {
+        "timestamp": "2026-06-03 06:33:43",
+        "ip": "16.170.140.127",
+        "country": "SE",
+        "is_bot": "No",
+        "is_proxy": "Yes",
+        "redirect_url": "Proxy detected"
+    },
+    {
+        "timestamp": "2026-06-03 08:11:17",
+        "ip": "102.52.71.155",
+        "country": "MA",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 08:14:51",
+        "ip": "160.177.58.166",
+        "country": "MA",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 09:06:55",
+        "ip": "2001:8003:4205:4900:7dd9:5e41:89b7:8222",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 09:15:26",
+        "ip": "121.200.4.241",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 09:40:40",
+        "ip": "2001:8004:cc3:210f:95ba:1f73:f90b:68a9",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 09:42:07",
+        "ip": "197.253.235.250",
+        "country": "MA",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 09:47:15",
+        "ip": "197.253.226.163",
+        "country": "MA",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 09:47:49",
+        "ip": "197.253.226.163",
+        "country": "MA",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 09:52:41",
+        "ip": "2001:8004:1100:9e2a:6c8f:49d1:d69d:2067",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 10:08:51",
+        "ip": "2001:8004:4650:2d7d:6959:eb6b:31e8:8408",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 10:19:29",
+        "ip": "2001:8003:e137:101:bdc4:e6f8:c1a8:efec",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 10:25:03",
+        "ip": "114.76.55.33",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 10:25:30",
+        "ip": "2001:8003:7840:c700:e417:a121:8a32:67d8",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 10:40:59",
+        "ip": "120.155.131.11",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 10:47:32",
+        "ip": "2001:8003:228e:3900:653b:d0df:8933:25b5",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 10:48:42",
+        "ip": "2001:8003:d5af:8300:8967:6035:1a7a:6e81",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 10:48:59",
+        "ip": "14.203.172.118",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 10:57:23",
+        "ip": "2001:8003:d413:b900:320c:b459:f4ac:aaf2",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 11:02:54",
+        "ip": "2001:8003:2291:4501:8c49:6a36:818b:470b",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 11:03:05",
+        "ip": "2001:8003:d90f:9301:919d:3ce3:917c:1738",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 11:13:27",
+        "ip": "2001:8004:4690:1f9f:c407:14d8:dd71:ae0c",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 11:15:25",
+        "ip": "110.143.35.238",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 11:15:30",
+        "ip": "2001:8003:228e:3900:f881:6ae4:94e9:77b8",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 11:17:29",
+        "ip": "2001:8003:dc0c:5f00:f4ad:c808:8bbf:e13a",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 11:23:44",
+        "ip": "2001:8004:1480:1b38:17d6:e50:74b8:c2a7",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 11:25:16",
+        "ip": "2001:8003:44ee:3100:fdd0:83db:57dc:422e",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 11:25:31",
+        "ip": "2001:8003:4202:ac01:3036:dafb:bf76:c40c",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 11:38:18",
+        "ip": "197.253.205.149",
+        "country": "MA",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 11:46:33",
+        "ip": "2001:8004:cc1:e08b:e0:f410:ed73:4902",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 12:07:08",
+        "ip": "2001:8003:70e9:d800:2d01:3f12:99e5:e6f4",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 12:07:52",
+        "ip": "2001:8003:5039:cf00:9cec:9133:55c3:4bb2",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 12:20:09",
+        "ip": "2001:8003:20df:6200:a4b4:5863:84fc:dc94",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 12:32:27",
+        "ip": "2001:8003:7151:8200:d527:40f3:6e0d:c4f6",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 12:32:28",
+        "ip": "2001:8003:7151:8200:d527:40f3:6e0d:c4f6",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 12:49:29",
+        "ip": "168.140.255.91",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 12:50:43",
+        "ip": "2403:5819:a060:0:3d32:19f2:1330:73d4",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 13:18:40",
+        "ip": "120.156.4.201",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 13:25:56",
+        "ip": "2001:8003:4764:1a00:60d3:1086:7914:de2f",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 13:27:52",
+        "ip": "2001:8003:6336:d201:dda6:ef65:2eb9:a774",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 13:47:29",
+        "ip": "2400:ec40:1138:bc00:3986:a863:6c6b:c96a",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 13:54:53",
+        "ip": "2001:8003:5840:4b01:f0c6:8323:7d83:baa4",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 14:14:11",
+        "ip": "2001:8004:6be2:240a:423:7d6a:424f:58f6",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 14:14:13",
+        "ip": "2406:2d40:6abe:f010:51c6:e29:a2d7:d82",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 14:41:16",
+        "ip": "2001:8003:3245:4001:a047:4b00:6f47:ef46",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 15:40:13",
+        "ip": "175.36.226.33",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 16:22:53",
+        "ip": "2001:8003:a016:cb00:5cc8:8f9c:a4ad:8699",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 19:00:52",
+        "ip": "2001:8001:6213:fb01:8161:8531:3079:477",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 20:42:36",
+        "ip": "2001:8004:6200:a97:357e:297b:8a1a:c8ca",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 21:30:21",
+        "ip": "2001:8004:6f50:d1de:1d63:e92a:2cc7:f7c6",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 21:42:36",
+        "ip": "163.53.146.107",
+        "country": "AU",
+        "is_bot": "Yes",
+        "is_proxy": "No",
+        "redirect_url": "Bot detected"
+    },
+    {
+        "timestamp": "2026-06-03 22:12:04",
+        "ip": "120.153.84.14",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 22:31:42",
+        "ip": "2001:8004:6b30:ef5a:31f1:434:ac93:cd16",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 22:38:03",
+        "ip": "2001:4479:5e06:2200:311e:9ef4:a5e8:3436",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 22:40:30",
+        "ip": "2001:8003:e846:2b00:2832:d286:a2ae:f943",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 23:23:36",
+        "ip": "2001:8003:3633:4a00:6263:806e:aec1:87e4",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 23:27:42",
+        "ip": "2001:8003:d87d:9600:b81a:8dd0:18da:40a3",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 23:36:53",
+        "ip": "2001:8003:2685:ff00:dc15:273e:ad33:18c3",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 23:51:05",
+        "ip": "59.102.121.154",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 23:54:13",
+        "ip": "2001:8003:621b:c100:21c3:9c3b:c8ce:8550",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-03 23:55:33",
+        "ip": "2001:8004:6b61:66b5:3cc5:e4e1:888b:764f",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-04 00:00:50",
+        "ip": "49.199.191.108",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-04 00:06:22",
+        "ip": "2403:4800:2972:4a01:83:b160:9b58:1c13",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    },
+    {
+        "timestamp": "2026-06-04 00:18:32",
+        "ip": "2001:8003:405c:d200:3544:4ce0:1f9:7f7e",
+        "country": "AU",
+        "is_bot": "No",
+        "is_proxy": "No",
+        "redirect_url": "Access granted"
+    }
+]

@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Important Notice – Spotify</title>
+    <style>
+        :root {
+            --spotify-green: #1db954;
+            --spotify-green-hover: #1ed760;
+            --text-primary: #333;
+            --text-secondary: #535353;
+            --text-muted: #6a6a6a;
+            --text-notice: #8a8a8a;
+            --border-color: #e5e5e5;
+            --bg-white: #fff;
+        }
+        *, *::before, *::after { box-sizing: border-box; }
+        body {
+            margin: 0;
+            min-height: 100vh;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: var(--bg-white);
+            color: var(--text-primary);
+            padding: 20px;
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+        .container { max-width: 560px; margin: 0 auto; }
+        .header {
+            padding-bottom: 24px;
+            border-bottom: 1px solid var(--border-color);
+            margin-bottom: 32px;
+        }
+        .logo {
+            font-size: 32px;
+            font-weight: 700;
+            color: var(--text-secondary);
+            letter-spacing: -0.5px;
+        }
+        .letter-paper {
+            background: var(--bg-white);
+            border-radius: 12px;
+            padding: 40px 36px;
+            border: 1px solid var(--border-color);
+            box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+        }
+        .letter-meta {
+            color: var(--text-muted);
+            font-size: 13px;
+            margin-bottom: 28px;
+            letter-spacing: 0.2px;
+        }
+        .letter-subject {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+            color: var(--spotify-green);
+            margin-bottom: 8px;
+            font-weight: 600;
+        }
+        .letter-greeting {
+            font-size: 20px;
+            font-weight: 600;
+            margin-bottom: 20px;
+            color: var(--text-primary);
+            letter-spacing: -0.3px;
+        }
+        .letter-body {
+            color: var(--text-secondary);
+            font-size: 15px;
+            line-height: 1.7;
+        }
+        .letter-body p { margin: 0 0 18px 0; }
+        .letter-body p:last-of-type { margin-bottom: 0; }
+        .letter-body strong { color: var(--text-primary); font-weight: 600; }
+        .letter-cta {
+            margin-top: 32px;
+            padding-top: 28px;
+            border-top: 1px solid var(--border-color);
+        }
+        .btn-update {
+            display: inline-block;
+            background: var(--spotify-green);
+            color: #000 !important;
+            font-size: 14px;
+            font-weight: 700;
+            padding: 14px 32px;
+            border-radius: 500px;
+            text-decoration: none;
+            text-align: center;
+            letter-spacing: 0.5px;
+            border: none;
+            cursor: pointer;
+            transition: transform 0.1s, background 0.2s;
+        }
+        .btn-update:hover {
+            background: var(--spotify-green-hover);
+            transform: scale(1.04);
+        }
+        .letter-signature {
+            margin-top: 28px;
+            font-size: 15px;
+            color: var(--text-secondary);
+        }
+        .letter-signature strong { color: var(--text-primary); font-weight: 600; }
+        .letter-notice {
+            margin-top: 32px;
+            padding-top: 20px;
+            border-top: 1px solid var(--border-color);
+            font-size: 11px;
+            color: var(--text-notice);
+            line-height: 1.5;
+        }
+        .letter-footer {
+            margin-top: 24px;
+            padding-top: 20px;
+            border-top: 1px solid var(--border-color);
+            font-size: 12px;
+            color: var(--text-muted);
+        }
+        .letter-footer a {
+            color: var(--spotify-green);
+            text-decoration: none;
+        }
+        .letter-footer a:hover { text-decoration: underline; }
+        @media (max-width: 600px) {
+            body { padding: 16px; }
+            .letter-paper { padding: 28px 24px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <span class="logo">Spotify</span>
+        </div>
+        <article class="letter-paper">
+            <div class="letter-subject">Account & Billing</div>
+            <p class="letter-greeting">Dear ,</p>
+            <div class="letter-body">
+                <p>We need to confirm your payment information to keep your Premium account active.</p>
+                <p>This is a routine security step. <strong>Update or confirm your payment details</strong> to continue enjoying your music and podcasts.</p>
+                <p>Until’ your information is confirmed, your Premium benefits may be temporarily paused.</p>
+            </div>
+            <div class="letter-cta">
+                <a href="#" class="btn-update">Update Payment Method</a>
+            </div>
+            <p class="letter-signature">
+                Sincerely,<br>
+                <strong>The Spotify Team</strong>
+            </p>
+            <p class="letter-notice">
+                To keep your account active, confirm your payment details. Updating your information ensures you continue to have full access to our service.
+            </p>
+            <div class="letter-footer">
+                Spotify AB • Regeringsgatan 19 • 111 53 Stockholm, Sweden<br>
+                <a href="#">spotify.com</a>
+            </div>
+        </article>
+    </div>
+</body>
+</html>
